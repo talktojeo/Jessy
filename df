@@ -1,16 +1,28 @@
-[33mcommit 61b54ed071a8169f01fc91fb9461e9a3f79e6795[m[33m ([m[1;36mHEAD[m[33m)[m
+[33mcommit 2e782967d153f7688abadfc27f1cd821971832c3[m[33m ([m[1;36mHEAD -> [m[1;32mJenny[m[33m)[m
 Author: Jeo <talktojeo@gmail.com>
-Date:   Tue Mar 2 16:13:23 2021 +0000
+Date:   Tue Mar 2 17:27:50 2021 +0000
 
-    first test1
+    all commit
 
-[33mcommit 90150e8e3fe95d16940a8f95bb44140e191cd25d[m
+[33mcommit d1838d19ddc0686aefe406e9ec1de6bc709c1719[m[33m ([m[1;32mmain[m[33m, [m[1;32mjj[m[33m)[m
 Author: Jeo <talktojeo@gmail.com>
-Date:   Tue Mar 2 16:07:29 2021 +0000
+Date:   Tue Mar 2 17:14:09 2021 +0000
 
-    firsttest
+    Marottikka
 
-[33mcommit 82b9c641e45310402483b556167b9232a86de587[m[33m ([m[1;32mmain[m[33m)[m
+[33mcommit 8a04ea180eac4d64a3b9e5be42aeb5760af64c3c[m
+Author: Jeo <talktojeo@gmail.com>
+Date:   Tue Mar 2 17:11:49 2021 +0000
+
+    Including PPT
+
+[33mcommit 100960132614afa2f53fed81550522f67ae3ad4b[m
+Author: Jeo <talktojeo@gmail.com>
+Date:   Tue Mar 2 16:30:03 2021 +0000
+
+    Jessica
+
+[33mcommit 82b9c641e45310402483b556167b9232a86de587[m
 Author: Jeo <talktojeo@gmail.com>
 Date:   Tue Mar 2 16:03:19 2021 +0000
 
@@ -28,7 +40,7 @@ Date:   Tue Mar 2 15:58:19 2021 +0000
 
     secondfile
 
-[33mcommit d08f4d372fa2b7974c60c185c5925599643b47d9[m
+[33mcommit d08f4d372fa2b7974c60c185c5925599643b47d9[m[33m ([m[1;32mcrazycolours[m[33m, [m[1;32mJack[m[33m)[m
 Author: Jeo <talktojeo@gmail.com>
 Date:   Tue Mar 2 15:51:01 2021 +0000
 
